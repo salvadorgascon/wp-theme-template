@@ -1,5 +1,5 @@
 # Wordpress theme template
-Wordpress template theme
+Wordpress theme template
 
 ## Authors
 
