@@ -1,2 +1,2 @@
-# wp-theme-base
-Wordpress base theme
+# wp-theme-template
+Wordpress template theme
